@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-02": 801
+      "2023-06-02": 832
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-02": 801
+      "2023-06-02": 832
     }
   },
   {
@@ -80,12 +80,12 @@
     "url": "http://www.gnpolice.go.kr/jj/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "jinju-police-station",
-    "status": "up",
-    "uptime": "93.69%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "93.69%",
-    "uptimeMonth": "93.69%",
-    "uptimeYear": "93.69%",
+    "status": "down",
+    "uptime": "93.91%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "93.91%",
     "time": 6026,
     "timeDay": 6026,
     "timeWeek": 6026,
