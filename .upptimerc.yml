@@ -8,7 +8,7 @@ sites:
     method: GET
     icon: https://nilspace.xyz/content/images/2023/05/water.png
   - name: 한국 전력 공사 (Korea Electric Power Corporation)
-    url: https://home.kepco.co.kr/index.html
+    url: https://home.kepco.co.kr/kepco/main.do
     method: GET
     icon: https://nilspace.xyz/content/images/2023/05/power-1.png
   - name: 에스케이텔레콤 (SK Telecom Co., Ltd.)
