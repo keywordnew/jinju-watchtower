@@ -19,7 +19,7 @@
   },
   {
     "name": "한국 전력 공사 (Korea Electric Power Corporation)",
-    "url": "https://home.kepco.co.kr/index.html",
+    "url": "https://home.kepco.co.kr/kepco/main.do",
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "korea-electric-power-corporation",
     "status": "down",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-02": 345
+      "2023-06-02": 592
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-02": 345
+      "2023-06-02": 592
     }
   },
   {
@@ -80,12 +80,12 @@
     "url": "http://www.gnpolice.go.kr/jj/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "jinju-police-station",
-    "status": "up",
-    "uptime": "95.70%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "95.70%",
-    "uptimeYear": "95.70%",
+    "status": "down",
+    "uptime": "97.51%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "97.51%",
     "time": 9214,
     "timeDay": 9214,
     "timeWeek": 9214,
