@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2089,
-    "timeDay": 2048,
-    "timeWeek": 2089,
-    "timeMonth": 2089,
-    "timeYear": 2089,
+    "time": 1998,
+    "timeDay": 1817,
+    "timeWeek": 1998,
+    "timeMonth": 1998,
+    "timeYear": 1998,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-03": 1259,
+      "2023-06-04": 107,
+      "2023-06-03": 1440,
       "2023-06-02": 836
     }
   },
@@ -49,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 334,
-    "timeWeek": 365,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "time": 371,
+    "timeDay": 384,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -73,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-03": 1259,
+      "2023-06-04": 107,
+      "2023-06-03": 1440,
       "2023-06-02": 836
     }
   },
@@ -82,18 +84,19 @@
     "url": "http://www.gnpolice.go.kr/jj/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "jinju-police-station",
-    "status": "up",
-    "uptime": "93.58%",
-    "uptimeDay": "92.82%",
-    "uptimeWeek": "93.58%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "93.58%",
-    "time": 4424,
-    "timeDay": 3414,
-    "timeWeek": 4424,
-    "timeMonth": 4424,
-    "timeYear": 4424,
+    "status": "down",
+    "uptime": "94.35%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "94.35%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "94.35%",
+    "time": 4291,
+    "timeDay": 3300,
+    "timeWeek": 4291,
+    "timeMonth": 4291,
+    "timeYear": 4291,
     "dailyMinutesDown": {
+      "2023-06-04": 0,
       "2023-06-03": 81,
       "2023-06-02": 54
     }
@@ -109,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6799,
-    "timeDay": 7052,
-    "timeWeek": 6799,
-    "timeMonth": 6799,
-    "timeYear": 6799,
+    "time": 6372,
+    "timeDay": 5519,
+    "timeWeek": 6372,
+    "timeMonth": 6372,
+    "timeYear": 6372,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2535,
-    "timeDay": 3183,
-    "timeWeek": 2535,
-    "timeMonth": 2535,
-    "timeYear": 2535,
+    "time": 2163,
+    "timeDay": 1418,
+    "timeWeek": 2163,
+    "timeMonth": 2163,
+    "timeYear": 2163,
     "dailyMinutesDown": {}
   }
 ]
