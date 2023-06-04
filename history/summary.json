@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-04": 457,
+      "2023-06-04": 462,
       "2023-06-03": 1440,
       "2023-06-02": 836
     }
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-04": 457,
+      "2023-06-04": 462,
       "2023-06-03": 1440,
       "2023-06-02": 836
     }
@@ -84,19 +84,19 @@
     "url": "http://www.gnpolice.go.kr/jj/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "jinju-police-station",
-    "status": "down",
-    "uptime": "92.14%",
-    "uptimeDay": "90.65%",
-    "uptimeWeek": "92.14%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "92.14%",
-    "time": 4445,
-    "timeDay": 4245,
-    "timeWeek": 4445,
-    "timeMonth": 4445,
-    "timeYear": 4445,
+    "status": "up",
+    "uptime": "91.96%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "91.96%",
+    "uptimeMonth": "91.96%",
+    "uptimeYear": "91.96%",
+    "time": 4334,
+    "timeDay": 4038,
+    "timeWeek": 4334,
+    "timeMonth": 4334,
+    "timeYear": 4334,
     "dailyMinutesDown": {
-      "2023-06-04": 80,
+      "2023-06-04": 86,
       "2023-06-03": 81,
       "2023-06-02": 54
     }
