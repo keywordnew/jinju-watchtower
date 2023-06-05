@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1998,
-    "timeDay": 1817,
-    "timeWeek": 1998,
-    "timeMonth": 1998,
-    "timeYear": 1998,
+    "time": 1970,
+    "timeDay": 1886,
+    "timeWeek": 1970,
+    "timeMonth": 1970,
+    "timeYear": 1970,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-04": 1298,
+      "2023-06-05": 98,
+      "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 836
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 384,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 368,
+    "timeDay": 356,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {}
   },
   {
@@ -74,7 +75,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-04": 1298,
+      "2023-06-05": 98,
+      "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 836
     }
@@ -85,16 +87,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "jinju-police-station",
     "status": "up",
-    "uptime": "91.37%",
+    "uptime": "91.91%",
     "uptimeDay": "87.94%",
-    "uptimeWeek": "91.37%",
-    "uptimeMonth": "91.37%",
-    "uptimeYear": "91.37%",
-    "time": 4669,
-    "timeDay": 5054,
-    "timeWeek": 4669,
-    "timeMonth": 4669,
-    "timeYear": 4669,
+    "uptimeWeek": "91.91%",
+    "uptimeMonth": "91.91%",
+    "uptimeYear": "91.91%",
+    "time": 4587,
+    "timeDay": 5074,
+    "timeWeek": 4587,
+    "timeMonth": 4587,
+    "timeYear": 4587,
     "dailyMinutesDown": {
       "2023-06-04": 175,
       "2023-06-03": 81,
@@ -112,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6372,
-    "timeDay": 5519,
-    "timeWeek": 6372,
-    "timeMonth": 6372,
-    "timeYear": 6372,
+    "time": 6445,
+    "timeDay": 6661,
+    "timeWeek": 6445,
+    "timeMonth": 6445,
+    "timeYear": 6445,
     "dailyMinutesDown": {}
   },
   {
@@ -130,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2163,
-    "timeDay": 1418,
-    "timeWeek": 2163,
-    "timeMonth": 2163,
-    "timeYear": 2163,
+    "time": 2124,
+    "timeDay": 2009,
+    "timeWeek": 2124,
+    "timeMonth": 2124,
+    "timeYear": 2124,
     "dailyMinutesDown": {}
   }
 ]
