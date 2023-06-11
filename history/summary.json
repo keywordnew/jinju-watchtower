@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-11": 1380,
+      "2023-06-11": 1393,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-11": 1380,
+      "2023-06-11": 1393,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -127,19 +127,19 @@
     "url": "http://www2.humetro.busan.kr/default/main.do",
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "busan-transportation-corporation-jinju",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5177,
-    "timeDay": 2023,
-    "timeWeek": 4665,
-    "timeMonth": 5177,
-    "timeYear": 5177,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 4876,
+    "timeDay": 1945,
+    "timeWeek": 4315,
+    "timeMonth": 4876,
+    "timeYear": 4876,
     "dailyMinutesDown": {
-      "2023-06-11": 0
+      "2023-06-11": 12
     }
   },
   {
