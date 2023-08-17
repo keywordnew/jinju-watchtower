@@ -1,7 +1,7 @@
 url: https://www.kwater.or.kr/main.do?s_mid=1
-status: up
-code: 200
-responseTime: 2089
-lastUpdated: 2023-08-16T23:13:59.891Z
+status: down
+code: 503
+responseTime: 1538
+lastUpdated: 2023-08-17T09:16:39.657Z
 startTime: Fri Jun 02 2023 10:17:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
