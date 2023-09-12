@@ -1,7 +1,7 @@
 url: http://www.gnpolice.go.kr/jj/
-status: down
-code: 404
-responseTime: 9950
-lastUpdated: 2023-09-12T09:11:00.143Z
+status: up
+code: 200
+responseTime: 1865
+lastUpdated: 2023-09-12T09:22:05.089Z
 startTime: 2023-06-02T10:18:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
