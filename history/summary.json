@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 2157,
     "dailyMinutesDown": {
-      "2023-09-13": 445,
+      "2023-09-13": 459,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -175,7 +175,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-13": 445,
+      "2023-09-13": 459,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -286,10 +286,10 @@
     "url": "http://www.gnpolice.go.kr/jj/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "jinju-police-station",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.20%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "95.19%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "98.98%",
     "time": 5545,
@@ -298,6 +298,7 @@
     "timeMonth": 5774,
     "timeYear": 5545,
     "dailyMinutesDown": {
+      "2023-09-13": 0,
       "2023-09-10": 64,
       "2023-09-07": 375,
       "2023-09-06": 92,
@@ -328,9 +329,9 @@
     "slug": "busan-transportation-corporation-jinju",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "92.82%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.85%",
     "time": 6555,
     "timeDay": 19236,
@@ -338,7 +339,7 @@
     "timeMonth": 7350,
     "timeYear": 6555,
     "dailyMinutesDown": {
-      "2023-09-13": 104,
+      "2023-09-13": 99,
       "2023-06-14": 120,
       "2023-06-13": 3
     }
