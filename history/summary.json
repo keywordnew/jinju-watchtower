@@ -4,10 +4,10 @@
     "url": "https://www.kwater.or.kr/main.do?s_mid=1",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "korea-water-resources-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2043,
@@ -15,7 +15,9 @@
     "timeWeek": 1934,
     "timeMonth": 2023,
     "timeYear": 2043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-02": 1
+    }
   },
   {
     "name": "한국 전력 공사 (Korea Electric Power Corporation)",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2157,
     "dailyMinutesDown": {
-      "2023-10-02": 894,
+      "2023-10-02": 1047,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -194,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-02": 894,
+      "2023-10-02": 1047,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -326,17 +328,16 @@
     "slug": "jinju-police-station",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.12%",
     "time": 5558,
     "timeDay": 7106,
     "timeWeek": 5464,
-    "timeMonth": 5952,
+    "timeMonth": 5951,
     "timeYear": 5558,
     "dailyMinutesDown": {
-      "2023-10-02": 6,
       "2023-09-29": 29,
       "2023-09-10": 64,
       "2023-09-07": 375,
