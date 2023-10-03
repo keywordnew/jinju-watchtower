@@ -6,9 +6,9 @@
     "slug": "korea-water-resources-corporation",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "77.59%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "78.06%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.82%",
     "time": 2018,
     "timeDay": 1613,
@@ -16,7 +16,7 @@
     "timeMonth": 1958,
     "timeYear": 2018,
     "dailyMinutesDown": {
-      "2023-10-02": 323
+      "2023-10-02": 316
     }
   },
   {
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 2157,
     "dailyMinutesDown": {
-      "2023-10-02": 1403,
+      "2023-10-03": 66,
+      "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -196,7 +197,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-02": 1403,
+      "2023-10-03": 66,
+      "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
