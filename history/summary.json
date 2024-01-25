@@ -29,7 +29,7 @@
     "uptime": "11.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.98%",
+    "uptimeMonth": "82.99%",
     "uptimeYear": "11.20%",
     "time": 1641,
     "timeDay": 1838,
@@ -257,19 +257,19 @@
     "url": "https://www.sktelecom.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "sk-telecom-co-ltd",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 334,
-    "timeWeek": 379,
-    "timeMonth": 358,
-    "timeYear": 361,
+    "time": 360,
+    "timeDay": 313,
+    "timeWeek": 368,
+    "timeMonth": 355,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-01-25": 0
+      "2024-01-25": 6
     }
   },
   {
@@ -289,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 1254,
+      "2024-01-25": 1259,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
