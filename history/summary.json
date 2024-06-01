@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2362,
-    "timeDay": 3560,
-    "timeWeek": 3073,
-    "timeMonth": 3241,
-    "timeYear": 2362,
+    "time": 2380,
+    "timeDay": 7071,
+    "timeWeek": 3555,
+    "timeMonth": 3346,
+    "timeYear": 2380,
     "dailyMinutesDown": {
       "2023-10-28": 44,
       "2023-10-02": 316
@@ -26,15 +26,15 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "korea-electric-power-corporation",
     "status": "up",
-    "uptime": "42.00%",
+    "uptime": "42.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.00%",
+    "uptimeYear": "42.16%",
     "time": 1693,
-    "timeDay": 1484,
-    "timeWeek": 1472,
-    "timeMonth": 1748,
+    "timeDay": 1656,
+    "timeWeek": 1534,
+    "timeMonth": 1742,
     "timeYear": 1693,
     "dailyMinutesDown": {
       "2024-04-18": 76,
@@ -250,8 +250,7 @@
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
-      "2023-06-03": 1440,
-      "2023-06-02": 836
+      "2023-06-03": 1440
     }
   },
   {
@@ -266,9 +265,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 375,
-    "timeWeek": 562,
-    "timeMonth": 660,
+    "timeDay": 424,
+    "timeWeek": 559,
+    "timeMonth": 657,
     "timeYear": 438,
     "dailyMinutesDown": {}
   },
@@ -278,16 +277,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "gyeongsang-national-university-hospital",
     "status": "up",
-    "uptime": "31.55%",
+    "uptime": "31.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.55%",
-    "time": 1189,
-    "timeDay": 1055,
-    "timeWeek": 1120,
-    "timeMonth": 1134,
-    "timeYear": 1189,
+    "uptimeYear": "31.74%",
+    "time": 1187,
+    "timeDay": 906,
+    "timeWeek": 1135,
+    "timeMonth": 1129,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2024-04-23": 216,
       "2024-04-22": 199,
@@ -540,8 +539,7 @@
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
-      "2023-06-03": 1440,
-      "2023-06-02": 836
+      "2023-06-03": 1440
     }
   },
   {
@@ -555,11 +553,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 4991,
-    "timeDay": 1573,
-    "timeWeek": 1603,
+    "time": 4986,
+    "timeDay": 1316,
+    "timeWeek": 1570,
     "timeMonth": 1607,
-    "timeYear": 4991,
+    "timeYear": 4986,
     "dailyMinutesDown": {
       "2024-03-22": 20,
       "2024-01-17": 26,
@@ -593,8 +591,7 @@
       "2023-06-06": 18,
       "2023-06-05": 50,
       "2023-06-04": 175,
-      "2023-06-03": 81,
-      "2023-06-02": 54
+      "2023-06-03": 81
     }
   },
   {
@@ -604,15 +601,15 @@
     "slug": "busan-transportation-corporation-jinju",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "96.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.82%",
-    "time": 4726,
-    "timeDay": 6218,
-    "timeWeek": 5715,
-    "timeMonth": 4175,
-    "timeYear": 4726,
+    "time": 4717,
+    "timeDay": 1732,
+    "timeWeek": 4680,
+    "timeMonth": 4173,
+    "timeYear": 4717,
     "dailyMinutesDown": {
       "2024-05-30": 46,
       "2024-05-15": 47,
@@ -641,11 +638,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2488,
-    "timeDay": 2484,
-    "timeWeek": 2327,
-    "timeMonth": 2440,
-    "timeYear": 2488,
+    "time": 2484,
+    "timeDay": 1666,
+    "timeWeek": 2231,
+    "timeMonth": 2422,
+    "timeYear": 2484,
     "dailyMinutesDown": {}
   }
 ]
