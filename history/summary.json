@@ -4,11 +4,11 @@
     "url": "https://www.kwater.or.kr/main.do?s_mid=1",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "korea-water-resources-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 2317,
     "timeDay": 1877,
@@ -16,7 +16,7 @@
     "timeMonth": 2012,
     "timeYear": 2328,
     "dailyMinutesDown": {
-      "2024-07-19": 12,
+      "2024-07-19": 0,
       "2023-10-28": 44,
       "2023-10-02": 316
     }
@@ -234,7 +234,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.72%",
+    "uptimeYear": "44.73%",
     "time": 1213,
     "timeDay": 1200,
     "timeWeek": 1292,
