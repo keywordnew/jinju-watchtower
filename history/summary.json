@@ -526,19 +526,19 @@
     "url": "https://www.kbstar.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "kb-bank",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2514,
-    "timeDay": 2167,
-    "timeWeek": 2546,
-    "timeMonth": 2555,
+    "timeDay": 2377,
+    "timeWeek": 2551,
+    "timeMonth": 2556,
     "timeYear": 2525,
     "dailyMinutesDown": {
-      "2024-07-20": 0
+      "2024-07-20": 6
     }
   }
 ]
