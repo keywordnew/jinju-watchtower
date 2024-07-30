@@ -199,11 +199,11 @@
     "url": "https://www.sktelecom.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "sk-telecom-co-ltd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 436,
     "timeDay": 381,
@@ -211,7 +211,7 @@
     "timeMonth": 437,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2024-07-30": 9
+      "2024-07-30": 0
     }
   },
   {
@@ -220,7 +220,7 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "gyeongsang-national-university-hospital",
     "status": "up",
-    "uptime": "41.31%",
+    "uptime": "41.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
