@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 2287,
-    "timeDay": 2337,
-    "timeWeek": 2379,
-    "timeMonth": 2197,
-    "timeYear": 2322,
+    "timeDay": 2353,
+    "timeWeek": 2348,
+    "timeMonth": 2192,
+    "timeYear": 2324,
     "dailyMinutesDown": {
       "2023-10-28": 44,
       "2023-10-02": 316
@@ -26,16 +26,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "korea-electric-power-corporation",
     "status": "up",
-    "uptime": "55.56%",
+    "uptime": "55.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "71.76%",
+    "uptimeYear": "72.03%",
     "time": 1739,
-    "timeDay": 1818,
-    "timeWeek": 1833,
-    "timeMonth": 1821,
-    "timeYear": 1735,
+    "timeDay": 1600,
+    "timeWeek": 1773,
+    "timeMonth": 1808,
+    "timeYear": 1734,
     "dailyMinutesDown": {
       "2024-09-03": 16,
       "2024-08-30": 28,
@@ -141,8 +141,7 @@
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
-      "2023-09-22": 1440,
-      "2023-09-21": 1440
+      "2023-09-22": 1440
     }
   },
   {
@@ -157,10 +156,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 435,
-    "timeDay": 452,
-    "timeWeek": 464,
-    "timeMonth": 410,
-    "timeYear": 448,
+    "timeDay": 364,
+    "timeWeek": 449,
+    "timeMonth": 409,
+    "timeYear": 447,
     "dailyMinutesDown": {}
   },
   {
@@ -169,16 +168,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "gyeongsang-national-university-hospital",
     "status": "up",
-    "uptime": "47.54%",
+    "uptime": "47.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.55%",
-    "time": 1217,
-    "timeDay": 1188,
-    "timeWeek": 1184,
-    "timeMonth": 1232,
-    "timeYear": 1217,
+    "uptimeYear": "61.82%",
+    "time": 1220,
+    "timeDay": 1904,
+    "timeWeek": 1289,
+    "timeMonth": 1243,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2024-08-16": 120,
       "2024-04-23": 216,
@@ -321,8 +320,7 @@
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
-      "2023-09-22": 1440,
-      "2023-09-21": 1440
+      "2023-09-22": 1440
     }
   },
   {
@@ -331,16 +329,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "jinju-police-station",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.88%",
-    "time": 4050,
-    "timeDay": 1818,
-    "timeWeek": 1807,
-    "timeMonth": 1742,
-    "timeYear": 3809,
+    "time": 4036,
+    "timeDay": 1821,
+    "timeWeek": 1781,
+    "timeMonth": 1741,
+    "timeYear": 3796,
     "dailyMinutesDown": {
       "2024-09-17": 30,
       "2024-07-18": 25,
@@ -370,11 +368,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 4467,
-    "timeDay": 2663,
-    "timeWeek": 3119,
-    "timeMonth": 3753,
-    "timeYear": 4185,
+    "time": 4462,
+    "timeDay": 2384,
+    "timeWeek": 2603,
+    "timeMonth": 3743,
+    "timeYear": 4175,
     "dailyMinutesDown": {
       "2024-07-18": 70,
       "2024-06-12": 170,
@@ -387,8 +385,7 @@
       "2024-01-24": 69,
       "2024-01-10": 56,
       "2023-10-11": 98,
-      "2023-10-04": 75,
-      "2023-09-21": 66
+      "2023-10-04": 75
     }
   },
   {
@@ -402,11 +399,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2560,
-    "timeDay": 2946,
-    "timeWeek": 2899,
-    "timeMonth": 2945,
-    "timeYear": 2574,
+    "time": 2562,
+    "timeDay": 3158,
+    "timeWeek": 2941,
+    "timeMonth": 2972,
+    "timeYear": 2578,
     "dailyMinutesDown": {}
   }
 ]
