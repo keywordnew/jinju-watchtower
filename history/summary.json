@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2281,
-    "timeDay": 2431,
-    "timeWeek": 2186,
-    "timeMonth": 2227,
-    "timeYear": 2342,
+    "timeDay": 2127,
+    "timeWeek": 2302,
+    "timeMonth": 2228,
+    "timeYear": 2343,
     "dailyMinutesDown": {
       "2023-10-28": 44
     }
@@ -25,16 +25,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "korea-electric-power-corporation",
     "status": "up",
-    "uptime": "57.35%",
+    "uptime": "57.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "77.23%",
-    "time": 1741,
-    "timeDay": 2074,
-    "timeWeek": 1924,
-    "timeMonth": 1781,
-    "timeYear": 1736,
+    "uptimeYear": "77.51%",
+    "time": 1743,
+    "timeDay": 2363,
+    "timeWeek": 2272,
+    "timeMonth": 1812,
+    "timeYear": 1739,
     "dailyMinutesDown": {
       "2024-09-22": 21,
       "2024-09-03": 16,
@@ -121,8 +121,7 @@
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   },
   {
@@ -137,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
-    "timeDay": 512,
-    "timeWeek": 394,
-    "timeMonth": 404,
+    "timeDay": 487,
+    "timeWeek": 450,
+    "timeMonth": 405,
     "timeYear": 450,
     "dailyMinutesDown": {}
   },
@@ -149,16 +148,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "gyeongsang-national-university-hospital",
     "status": "up",
-    "uptime": "49.66%",
+    "uptime": "49.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.03%",
-    "time": 1214,
-    "timeDay": 1200,
-    "timeWeek": 1175,
-    "timeMonth": 1155,
-    "timeYear": 1214,
+    "uptimeYear": "67.30%",
+    "time": 1213,
+    "timeDay": 1039,
+    "timeWeek": 1121,
+    "timeMonth": 1161,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2024-08-16": 120,
       "2024-04-23": 216,
@@ -281,8 +280,7 @@
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   },
   {
@@ -296,11 +294,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.89%",
-    "time": 3743,
-    "timeDay": 1820,
-    "timeWeek": 1807,
-    "timeMonth": 1750,
-    "timeYear": 3425,
+    "time": 3740,
+    "timeDay": 1828,
+    "timeWeek": 1767,
+    "timeMonth": 1762,
+    "timeYear": 3374,
     "dailyMinutesDown": {
       "2024-09-17": 30,
       "2024-07-18": 25,
@@ -324,14 +322,14 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.84%",
-    "time": 4443,
-    "timeDay": 5687,
-    "timeWeek": 4047,
-    "timeMonth": 3838,
-    "timeYear": 4191,
+    "time": 4439,
+    "timeDay": 2872,
+    "timeWeek": 3612,
+    "timeMonth": 3709,
+    "timeYear": 4193,
     "dailyMinutesDown": {
       "2024-10-02": 15,
       "2024-07-18": 70,
@@ -343,8 +341,7 @@
       "2024-03-14": 29,
       "2024-02-14": 64,
       "2024-01-24": 69,
-      "2024-01-10": 56,
-      "2023-10-11": 98
+      "2024-01-10": 56
     }
   },
   {
@@ -358,11 +355,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2569,
-    "timeDay": 2543,
-    "timeWeek": 2744,
-    "timeMonth": 2854,
-    "timeYear": 2599,
+    "time": 2571,
+    "timeDay": 3320,
+    "timeWeek": 3006,
+    "timeMonth": 2878,
+    "timeYear": 2605,
     "dailyMinutesDown": {}
   }
 ]
