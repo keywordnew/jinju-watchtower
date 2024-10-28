@@ -4,9 +4,9 @@
     "url": "https://www.kwater.or.kr/main.do?s_mid=1",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "korea-water-resources-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2098,
     "timeMonth": 2192,
     "timeYear": 2355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "한국 전력 공사 (Korea Electric Power Corporation)",
@@ -24,17 +26,17 @@
     "slug": "korea-electric-power-corporation",
     "status": "up",
     "uptime": "58.94%",
-    "uptimeDay": "96.45%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "82.51%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "82.52%",
     "time": 1752,
     "timeDay": 2096,
     "timeWeek": 1843,
     "timeMonth": 1846,
     "timeYear": 1748,
     "dailyMinutesDown": {
-      "2024-10-28": 34,
+      "2024-10-28": 19,
       "2024-10-27": 17,
       "2024-10-22": 16,
       "2024-10-21": 28,
