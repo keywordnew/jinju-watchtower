@@ -27,7 +27,7 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "korea-electric-power-corporation",
     "status": "up",
-    "uptime": "67.41%",
+    "uptime": "67.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -81,18 +81,18 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "gyeongsang-national-university-hospital",
     "status": "down",
-    "uptime": "59.14%",
+    "uptime": "59.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.34%",
-    "uptimeYear": "95.50%",
+    "uptimeMonth": "45.28%",
+    "uptimeYear": "95.33%",
     "time": 1211,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1215,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2025-03-12": 98,
+      "2025-03-12": 999,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -180,9 +180,9 @@
     "url": "https://www.kbstar.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "kb-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,6 +191,8 @@
     "timeWeek": 2795,
     "timeMonth": 2898,
     "timeYear": 2820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-12": 0
+    }
   }
 ]
