@@ -84,7 +84,7 @@
     "uptime": "59.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.28%",
+    "uptimeMonth": "45.26%",
     "uptimeYear": "95.33%",
     "time": 1211,
     "timeDay": 0,
@@ -92,7 +92,7 @@
     "timeMonth": 1215,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2025-03-12": 999,
+      "2025-03-12": 1011,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -180,19 +180,19 @@
     "url": "https://www.kbstar.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "kb-bank",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2707,
-    "timeDay": 2704,
-    "timeWeek": 2795,
-    "timeMonth": 2898,
-    "timeYear": 2820,
+    "time": 2710,
+    "timeDay": 3027,
+    "timeWeek": 2865,
+    "timeMonth": 2914,
+    "timeYear": 2822,
     "dailyMinutesDown": {
-      "2025-03-12": 0
+      "2025-03-12": 12
     }
   }
 ]
