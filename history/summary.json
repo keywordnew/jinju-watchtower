@@ -64,19 +64,19 @@
     "url": "https://www.sktelecom.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "sk-telecom-co-ltd",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 564,
-    "timeWeek": 427,
+    "time": 467,
+    "timeDay": 517,
+    "timeWeek": 432,
     "timeMonth": 470,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-09-10": 0
+      "2025-09-10": 8
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2025-09-10": 1047,
+      "2025-09-10": 1055,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
